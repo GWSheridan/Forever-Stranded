@@ -1,0 +1,167 @@
+//add 24
+
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:modpack.png",
+            "posX" : -200,
+            "posY" : -5,
+            "width" : 400,
+            "height" : 150,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mainmenu:longbuttonamt.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mainmenu:longbuttonamt.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mainmenu:longbuttonamt.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "creator":
+        {
+            "text" : "GWSheridan",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mainmenu:longbuttonamt.png",
+            "color" : 10168559, 
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://twitter.com/GWSheridan"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+            "posX" : -100,
+            "posY" : 144,
+            "width" : 98,
+            "height" : 20,
+            "texture" : "mainmenu:shortbuttonamt.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 2,
+            "posY" : 144,
+            "width" : 98,
+            "height" : 20,
+            "texture" : "mainmenu:shortbuttonamt.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 144,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 144,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        
+        "background": {
+            "image": "mainmenu:textures/background.png",
+            "mode": "stretch"
+        }
+    }
+}

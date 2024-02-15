@@ -1,0 +1,479 @@
+﻿  1.9.9.1 Changelog
+
+Last ever update for the pack issue page will be taken down
+Thanks to everyon that played the pack 600k+ Downloads
+
+Updated a few mods
+make sure you reload your quests with the commands
+/bq_admin default load
+/bqs_loot default load
+
+
+
+------------------------------------------------------------------
+  1.9.9 Changelog
+
+        Quests
+
+Update quests with command /bq_admin default load
+
+redone the collection quests
+
+
+        Mods Updated
+
+* AppleCore
+* Base
+* Chisel
+* CodeChicken Lib
+* Doomlike Dungeons
+* Extra utilities
+* Extra Cells
+* OpenModularTurrets
+
+
+
+        Config Changes
+
+* Stats Keeper
+    - Keep temp now false
+
+
+
+
+------------------------------------------------------------------ 
+  1.9.8 Changelog
+
+        Mods Added
+* Blur
+* Custom Backgrounds
+
+        Mods Updated
+* Extra Utilities 2
+* Stats keeper
+
+        Config Changes
+* Stats Keeper
+    - Changed Keep Temperature to false
+
+
+
+
+------------------------------------------------------------------ 
+
+  1.9.7 Changelog
+
+        Changes
+Taken the quests out of edit mode
+
+        Mods Added
+* ExtraCells2
+
+        Mods Updated
+* OpenModularTurrets
+* Stats Keeper
+
+        Config Changes
+* Stats Keeper
+    - Disabled Health system (tough as nails is used)
+    - Drop Experience on Death
+    - Keep Experience false
+    - Keep Hunger an saturation true
+    - Keep Hydration true
+    - Changed minimal hunger an thirst
+
+
+------------------------------------------------------------------       
+
+  1.9.6 Changelog
+
+        Mods Added
+
+* Better Builder's Wand
+* BetterFps
+
+        Mods Updated
+
+* Advanced Rocketry
+* AppleSkin
+* Better Questing
+* Better Questing - Standard Expansion
+* Extra Utilities 2
+* JourneyMap
+* LibVulpes
+* OMLib
+* OpenModularTurrets
+* Wireless Crafting Terminal
+
+        Changes
+
+* Refreshed template map for new worlds loads so no missing IDs
+   - you do not need to restart your world its only for new downloads of the pack
+
+        Recipe changes
+
+* Ex Nihilo Omnia
+ - Wooden hammer
+    - Now 3 sticks 2 wood planks
+    - Removed 2 other recipes to the wooden hammer
+* Extra Utilities 2
+ - Removed builders wands (Better Builders's Wands now in the pack)
+
+Recipe fix to emerald tools thanks to chaosblad3
+
+
+------------------------------------------------------------------
+
+  1.9.5 Changelog
+
+        Mods Updated
+* Forge Version 12.18.3.2511
+
+* BdLib
+* Chisel & Bits
+* ConnectedYextureMod
+* Doomlike Dungeons
+* Extra Utilities
+* Extreme Reactors
+* InfiniteFluids
+* Iron Backpacks
+* JourneyMap
+* The Spice of Life
+* Thermal Dynamics
+* Thermal Expansion
+* Tiny Progression
+* Tough Expansion
+* Weather, Storms & Tornadoes
+* Wireless Crafting Terminal
+
+
+------------------------------------------------------------------
+
+  1.9.4 Changelog
+
+        Mod Added
+* Perfect Spawn
+  - Now spawn inside the ship on death
+
+        Mods Updated
+* Chisel
+* Extra Utilities
+* foamfix
+* Tough As Nails
+
+
+------------------------------------------------------------------
+
+                            §41.9.3 Changelog
+
+Fixed issue of invis mobs
+Fixed gravestone break crash                            
+
+        §2Mod Changes
+* Reverted versions of
+   -Stats Keeper (Changed Configs as well)
+   -Gravstone Mod
+
+        §2Mods Updated
+
+* Forge Version 12.18.3.2477
+* Extra Utilties
+* Journey Map
+* Quantum Storage (fixes Extra Utilities crash with pipes)
+
+------------------------------------------------------------------
+
+                            §41.9.2 Changelog
+
+* Refreshed world for missing IDs 
+* Changed place holder in quests. To update quest book
+  Use this command (all players must do) §4/bq_admin default load
+
+* Updated Forge version to = 12.18.3.2422
+
+
+        §2Recipe Changes
+* Removed Tiny progression golden apple
+* Removed Iron dust to 1 ingot now need block of dust
+
+        §2Config Changes
+* Battle tower loot more loot
+* Spawn distance of battle towers
+* Extreme reactors now produce more power per tick
+* Changed power requirement in Woot to be higher cost rate per tick
+
+        §2Mods Updated
+* AppleCore
+* AppleSkin
+* Applied Energistics 2
+* Better With Mods
+* Chisel
+* Chisel & Bits
+* CodeChicken Lib 1.8.+
+* CoFH Core
+* ConnectedTexturesMod
+* Cooking For Blockheads
+* CoroUtil
+* Extra Utilities
+* Forestry
+* GraveStone Mod
+* Hopper Ducts
+* Immersive Enginering
+* Idustrial Craft
+* Industrial Wires
+* Iron Backpacks
+* Journey Map
+* OMLib
+* OpenModularTurrets
+* Pressure Pips
+* RailCraft
+* Redstone Arsenal
+* Storage Drawers
+* Thermal Dynamics
+* Thermal Expansion
+* Thermal Foundation
+* Tinkers Construct
+* Tinkers' Addons
+* Tiny Progression
+* TorchMaster
+* Tough As Nails
+* Tough Expansion
+* Weather, Storms & Tornados
+* Wireless Crafting Terminal
+* Zombie Awareness
+
+------------------------------------------------------------------   
+
+                            §41.9.1 Changelog
+
+        §2Config Changes
+* Turned off Better With Mods compatibility with Pams
+* Orbital laser from Advanced Rocketry now mines blocks from
+  Planet surface
+
+        §2Recipe Changes
+* Added some changed recipes for Better with mods
+
+        §2Mods Removed
+* Waila
+    
+        §2Mods Updated
+* Advanced Rocketry
+* AppleCore
+* AtomicStryker's Battle Towers
+* Chisel
+    - Adds mod ConnectedTexturesMod
+* Chisel & Bits
+* CodeChicken Lib 1.8.+
+* CoFH Core
+* Ender IO
+* Extreme Reactors
+* Forestry
+* Immersive Engineering
+* Journey Map
+* LibVulpes
+* Open Glider
+* Redstone Arsenal
+* Simply Jetpacks 2
+* Storage Drawers
+* Thermal Dynamics
+* Thermal Expansion
+* Thermal Foundation
+* Torch Master
+* Tough As Nails
+* Waila Harvesstability
+    - Adds mod Hwyla
+* Woot
+
+------------------------------------------------------------------                            
+
+                            §41.9.0 Changelog
+
+ * Will be updating pack for major bugs only now
+   Some of you may know that there is also Hurt Edition 
+   of this pack as well on Curse. I have also began work
+   on Forver Stranded Lost Souls (No ETAs)
+   Lots to come an more work to do yet. Hope you are all
+   Enjoying the pack an thank you all :) 
+
+        §2Changes
+* Updated recipes for pams due to ID changes
+
+* Updated missing quests IDs do command /bq_admin default load
+
+* Now running on Forge version 12.18.3.2316
+
+        §2Config Changes
+* Made Ender IO on medium difficulty
+
+        §2Mods Updated
+* Advanced Rocketry
+* B.A.S.E
+* Baubles
+* Better Questing
+* Better With Mods
+* Chameleon
+* Coking For Blockheads
+* CoroUtil
+* Ender IO
+* EnderCore
+* Extreme Reactors
+* Forestry
+* Immersive Engineering
+* Industrial Craft
+* Industrial Wires
+* Iron Backpacks
+* Iron Chests
+* Just Enough Items (JEI)
+* LibVulpes
+* Mike Dongles
+* OpenModularTurrets
+* Pam's HarvestCraft
+* QuantumStorage
+* Railcraft
+* Storage Drawers
+* Thirsty Bottles
+* TorchMaster
+* Wireless Crafting Terminal
+* Zombie Awareness
+
+------------------------------------------------------------------
+
+                            §41.8.9.1 Changelog
+			
+        §2Changes
+* Dropped version of Extra Utilities 
+        - Builders wand broken in newest version
+
+        §2Mods Updated
+* CodeChicken Lib 1.8.+
+
+------------------------------------------------------------------
+
+                            §41.8.9 Secrets Secrets Changelog 
+        §2Changes
+* Updated Quests please do command /bq_admin default load
+* Updated Loot Rewards please do command /bqs_loot default load
+* Fixed typos in quests. Added some more loot chests an rewards
+* Reverted Cactus not been abled to be used in wooden crucible
+* Went down a version of Ex Compressum to allow automation of crucibles
+
+        §2Mods Updated
+* Advanced Rocketry
+* Better With Mods
+* Chisel
+* CoroUtil
+* Ender IO
+* Extra Utilities
+* Extreme Reactors
+* LibVulpes
+* More Overlays
+* OpenModularTurrets
+* RailCraft
+* Random Things
+* Simply Jetpacks 2
+* Stats Keeper
+* Wether, Storms & Tornadoes
+* Wireless Crafting Terminal
+* Woot
+* ZeroCore
+
+------------------------------------------------------------------
+
+                            §41.8.8.1 Secrets Secrets Changelog
+        §2Changes
+* §6Updated Quests please do command §4/bq_admin default load        
+* Fixed a few place holders in quest rewards
+* §6Added a few extra rewards to quests
+* Refreshed template again new worlds should not have missing IDs
+* §6Nobody found secret yet still to find
+
+        §2Mods Updated
+* §6Advanced Rocketry
+* Better With Mods
+* §6Chisel
+* Custom Main Menu
+* §6DeathQuotes/Death Quotes
+* Ender IO
+* §6Forestry
+* Storage Drawers
+* §6Wireless Crafting Terminal
+* Woot
+
+------------------------------------------------------------------
+
+							§41.8.8 Secrets Secrets Changelog									
+    
+	    §2Changes
+* §6Updated Quests please do command §4/bq_admin default load
+* Bug tracker link now in game will take you to issue page
+* §6Refreshed template no ids missings on new worlds
+* There has been a big secret for along time nobody has found it
+* §6Water sources will now be used up by one glass bottle non infinite 
+	
+	    §2Mods Added
+* §6MPUtils
+* MPUtils Basic Tools
+* §6Thirsty Bottles
+
+        §2Mods Updated
+* §6Advanced Rocketry
+* Aroma1997Core
+* §6Base
+* Better With Mods
+* §6Chisel
+* CodeChicken Core 1.8.+
+* §6CodeChicken Lib 1.8.+
+* CoFH Core
+* §6CoroUtil
+* Ender Storage 1.8.+
+* §6Extra Utilities
+* Forestry
+* §6Industrial Craft
+* Iron Backpacks
+* §6Just Enough Items (JEI)
+* LibVulpes
+* §6Open Glider
+* OpenModularTurrets
+* §6Progressive Automation
+* QuabtumStorage
+* §6Redstone Arsenal
+* Simply Jetpacks 2
+* §6Storage Drawers
+* Thermal Expansion
+* §6Thermal Foundation
+* Tiny Progressions
+* §6TorchMaster
+* Tough Expansion
+* §6Wether, Storms & Tornadoes
+* Wirekess Crafting Terminal
+* §6Woot
+
+------------------------------------------------------------------
+
+                            §41.8.7.1 Changelog
+
+* §6Fixed texture issue
+
+------------------------------------------------------------------
+
+                            §41.8.7 Changelog
+
+    §2Changes
+* New main menu layout (Thanks TheBritshBrotherHood)
+* §6Refreshed template no ids missing on new worlds
+
+    §2Mods Updated
+* §6BdLib
+* Better Questing Trigger
+* §6Better With Mods
+* Doomlike Dungeons
+* §6Ender IO
+* Ex Compressum
+* §6Pressure Pipes
+* Tinkers' Addons
+* §6Tiny Progressions
+* TorchMaster
+* §6Wireless Crafting Terminal
+* Woot                                                                       
+
