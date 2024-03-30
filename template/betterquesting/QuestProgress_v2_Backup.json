@@ -1,0 +1,1321 @@
+{
+  "questProgress": [
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 0
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "questID": 1
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 2
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 3
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 4
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 5
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 6
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 2
+        }
+      ],
+      "questID": 7
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 8
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 9
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 10
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 11
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 12
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 13
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 14
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 15
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 16
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 17
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 2
+        }
+      ],
+      "questID": 18
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 19
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 20
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 21
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 22
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 23
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 24
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 25
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 26
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 27
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 28
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:hunt",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:hunt",
+          "index": 1
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:hunt",
+          "index": 2
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:hunt",
+          "index": 3
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:hunt",
+          "index": 4
+        }
+      ],
+      "questID": 29
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 30
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 31
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 32
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 33
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 34
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 35
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 36
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 37
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 38
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 39
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 40
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 41
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 42
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 43
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 44
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 45
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 46
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 47
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 48
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 49
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 50
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 51
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 52
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 53
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 54
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 55
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 56
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 57
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 58
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 59
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 60
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 61
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 62
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 63
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "taskID": "bq_standard:location",
+          "index": 0
+        }
+      ],
+      "questID": 64
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 65
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 1
+        }
+      ],
+      "questID": 66
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 67
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 68
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 69
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 70
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 71
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 72
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 73
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 74
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 75
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 76
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 77
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 78
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 79
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 80
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 81
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 82
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 83
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 86
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 88
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 90
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 92
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 94
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 95
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 97
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 98
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [
+            {
+              "uuid": "d1d6100a-3e15-4ddd-b373-475c16d96060",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "uuid": "84680660-1372-4890-9935-88272138173d",
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 99
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 101
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval",
+          "index": 0
+        }
+      ],
+      "questID": 103
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "questID": 105
+    },
+    {
+      "completed": [],
+      "tasks": [
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        },
+        {
+          "completeUsers": [],
+          "userProgress": [],
+          "taskID": "bq_standard:crafting",
+          "index": 1
+        }
+      ],
+      "questID": 106
+    }
+  ]
+}

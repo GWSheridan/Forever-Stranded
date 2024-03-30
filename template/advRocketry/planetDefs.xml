@@ -1,0 +1,674 @@
+<galaxy>
+	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Earth" DIMID="0" dimMapping="">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<planet name="Luna" DIMID="2">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>16</gravitationalMultiplier>
+				<orbitalDistance>150</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>128000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-17" DIMID="17">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.73917437,0.21212447</skyColor>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<orbitalPhi>3</orbitalPhi>
+			<rotationalPeriod>21335</rotationalPeriod>
+			<atmosphereDensity>178</atmosphereDensity>
+			<biomeIds>165,167,166,35,24</biomeIds>
+			<planet name="Sol-17: 0" DIMID="18">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.8008861,1.0</skyColor>
+				<gravitationalMultiplier>75</gravitationalMultiplier>
+				<orbitalDistance>185</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>56888</rotationalPeriod>
+				<atmosphereDensity>32</atmosphereDensity>
+				<biomeIds>155,94,156,151,157</biomeIds>
+			</planet>
+			<planet name="Sol-17: 1" DIMID="19">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.5864979,1.0</skyColor>
+				<gravitationalMultiplier>44</gravitationalMultiplier>
+				<orbitalDistance>193</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>281743</rotationalPeriod>
+				<atmosphereDensity>31</atmosphereDensity>
+				<biomeIds>160,134,91,16,17</biomeIds>
+			</planet>
+			<planet name="Sol-17: 2" DIMID="20">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.31541163,0.9200603,1.0</skyColor>
+				<gravitationalMultiplier>60</gravitationalMultiplier>
+				<orbitalDistance>144</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>111111</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>96,156,21,36,14</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-3" DIMID="3">
+			<isKnown>false</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+			<gas>hydrogen</gas>
+			<gas>oxygen</gas>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>180</atmosphereDensity>
+			<planet name="Sol-3: 0" DIMID="4">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.37579548,0.667715,1.0</skyColor>
+				<gravitationalMultiplier>71</gravitationalMultiplier>
+				<orbitalDistance>122</orbitalDistance>
+				<orbitalPhi>-7</orbitalPhi>
+				<rotationalPeriod>67055</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-5" DIMID="5">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.7888029,0.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>83</orbitalDistance>
+			<orbitalPhi>-5</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>199</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+		</planet>
+		<planet name="Sol-21" DIMID="21">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.7881329,0.8267128</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>114</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>96</atmosphereDensity>
+			<biomeIds>165,15,22,10,27</biomeIds>
+			<planet name="Sol-21: 0" DIMID="22">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.61036724,0.712474,1.0</skyColor>
+				<gravitationalMultiplier>73</gravitationalMultiplier>
+				<orbitalDistance>97</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>61693</rotationalPeriod>
+				<atmosphereDensity>31</atmosphereDensity>
+				<biomeIds>23,130,151,91,162</biomeIds>
+			</planet>
+			<planet name="Sol-21: 1" DIMID="23">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.583604,1.0</skyColor>
+				<gravitationalMultiplier>40</gravitationalMultiplier>
+				<orbitalDistance>200</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>375000</rotationalPeriod>
+				<atmosphereDensity>17</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-6" DIMID="6">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.56475484,0.48900366</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>124</orbitalDistance>
+			<orbitalPhi>-6</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>141</atmosphereDensity>
+			<biomeIds>0,163,39,156,164</biomeIds>
+			<planet name="Sol-6: 0" DIMID="7">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.33351517,0.58725744,1.0</skyColor>
+				<gravitationalMultiplier>52</gravitationalMultiplier>
+				<orbitalDistance>128</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>161206</rotationalPeriod>
+				<atmosphereDensity>27</atmosphereDensity>
+				<biomeIds>96,25,129,37,1</biomeIds>
+			</planet>
+			<planet name="Sol-6: 1" DIMID="8">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.7124531,1.0</skyColor>
+				<gravitationalMultiplier>66</gravitationalMultiplier>
+				<orbitalDistance>175</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>83479</rotationalPeriod>
+				<atmosphereDensity>32</atmosphereDensity>
+				<biomeIds>167,16,129,156,38</biomeIds>
+			</planet>
+			<planet name="Sol-6: 2" DIMID="9">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.38434988,0.814945,1.0</skyColor>
+				<gravitationalMultiplier>72</gravitationalMultiplier>
+				<orbitalDistance>107</orbitalDistance>
+				<orbitalPhi>-7</orbitalPhi>
+				<rotationalPeriod>64300</rotationalPeriod>
+				<atmosphereDensity>19</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-24" DIMID="24">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.72943914,0.7322198</skyColor>
+			<gravitationalMultiplier>127</gravitationalMultiplier>
+			<orbitalDistance>40</orbitalDistance>
+			<orbitalPhi>-4</orbitalPhi>
+			<rotationalPeriod>11716</rotationalPeriod>
+			<atmosphereDensity>51</atmosphereDensity>
+			<biomeIds>167,94,156,1,16</biomeIds>
+		</planet>
+		<planet name="Sol-10" DIMID="10">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.2787708,0.6465013,1.0</skyColor>
+			<gravitationalMultiplier>93</gravitationalMultiplier>
+			<orbitalDistance>128</orbitalDistance>
+			<orbitalPhi>3</orbitalPhi>
+			<rotationalPeriod>29837</rotationalPeriod>
+			<atmosphereDensity>18</atmosphereDensity>
+			<biomeIds>90</biomeIds>
+		</planet>
+		<planet name="Sol-11" DIMID="11">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.90188134,0.64556646</skyColor>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>168</orbitalDistance>
+			<orbitalPhi>1</orbitalPhi>
+			<rotationalPeriod>18031</rotationalPeriod>
+			<atmosphereDensity>167</atmosphereDensity>
+			<biomeIds>133,161,23,165,149</biomeIds>
+			<planet name="Sol-11: 0" DIMID="12">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.025955081,0.62767994,1.0</skyColor>
+				<gravitationalMultiplier>36</gravitationalMultiplier>
+				<orbitalDistance>182</orbitalDistance>
+				<orbitalPhi>1</orbitalPhi>
+				<rotationalPeriod>514403</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>165,164,20,91,17</biomeIds>
+			</planet>
+			<planet name="Sol-11: 1" DIMID="13">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.01981455,0.5528004,1.0</skyColor>
+				<gravitationalMultiplier>57</gravitationalMultiplier>
+				<orbitalDistance>163</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>129594</rotationalPeriod>
+				<atmosphereDensity>20</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-14" DIMID="14">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.679297,0.68456554</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>46</orbitalDistance>
+			<orbitalPhi>1</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>59</atmosphereDensity>
+			<biomeIds>16,4,17,23,1</biomeIds>
+		</planet>
+		<planet name="Sol-15" DIMID="15">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.57652986,0.5888263,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>116</orbitalDistance>
+			<orbitalPhi>-5</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>44</atmosphereDensity>
+			<biomeIds>12</biomeIds>
+			<planet name="Sol-15: 0" DIMID="16">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.13174331,0.8632848,1.0</skyColor>
+				<gravitationalMultiplier>47</gravitationalMultiplier>
+				<orbitalDistance>169</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>231162</rotationalPeriod>
+				<atmosphereDensity>37</atmosphereDensity>
+				<biomeIds>18,160,16,162,14</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Wolf 12" temp="10" x="300" y="-200" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Sol-34" DIMID="34">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.68202174,0.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>9</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>121</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+			<planet name="Sol-34: 0" DIMID="35">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.58953416,1.0</skyColor>
+				<gravitationalMultiplier>68</gravitationalMultiplier>
+				<orbitalDistance>165</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>76328</rotationalPeriod>
+				<atmosphereDensity>26</atmosphereDensity>
+				<biomeIds>39,22,18,133,167</biomeIds>
+			</planet>
+			<planet name="Sol-34: 1" DIMID="36">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.6570213,1.0</skyColor>
+				<gravitationalMultiplier>51</gravitationalMultiplier>
+				<orbitalDistance>196</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>180925</rotationalPeriod>
+				<atmosphereDensity>18</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-34: 2" DIMID="37">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.19656622,0.5045063,1.0</skyColor>
+				<gravitationalMultiplier>68</gravitationalMultiplier>
+				<orbitalDistance>132</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>76328</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-25" DIMID="25">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.6394371,0.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>25</orbitalDistance>
+			<orbitalPhi>-5</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>138</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+		</planet>
+		<planet name="Sol-26" DIMID="26">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.5854161,0.90388244</skyColor>
+			<gravitationalMultiplier>107</gravitationalMultiplier>
+			<orbitalDistance>137</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>19591</rotationalPeriod>
+			<atmosphereDensity>114</atmosphereDensity>
+			<biomeIds>3</biomeIds>
+			<planet name="Sol-26: 0" DIMID="27">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.27217984,0.8836608,1.0</skyColor>
+				<gravitationalMultiplier>50</gravitationalMultiplier>
+				<orbitalDistance>123</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>192000</rotationalPeriod>
+				<atmosphereDensity>26</atmosphereDensity>
+				<biomeIds>16,160,166,133,17</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-28" DIMID="28">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.08019483,0.9963756,1.0</skyColor>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>190</orbitalDistance>
+			<orbitalPhi>-7</orbitalPhi>
+			<rotationalPeriod>18031</rotationalPeriod>
+			<atmosphereDensity>59</atmosphereDensity>
+			<biomeIds>161,156,151,129,3</biomeIds>
+			<planet name="Sol-28: 0" DIMID="29">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.3184275,0.9547607,1.0</skyColor>
+				<gravitationalMultiplier>51</gravitationalMultiplier>
+				<orbitalDistance>115</orbitalDistance>
+				<orbitalPhi>-7</orbitalPhi>
+				<rotationalPeriod>180925</rotationalPeriod>
+				<atmosphereDensity>17</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-28: 1" DIMID="30">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.5762497,1.0</skyColor>
+				<gravitationalMultiplier>51</gravitationalMultiplier>
+				<orbitalDistance>196</orbitalDistance>
+				<orbitalPhi>-7</orbitalPhi>
+				<rotationalPeriod>180925</rotationalPeriod>
+				<atmosphereDensity>37</atmosphereDensity>
+				<biomeIds>91,24,151,165,98</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-31" DIMID="31">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.97891176,0.4625967</skyColor>
+			<gravitationalMultiplier>114</gravitationalMultiplier>
+			<orbitalDistance>168</orbitalDistance>
+			<orbitalPhi>-2</orbitalPhi>
+			<rotationalPeriod>16199</rotationalPeriod>
+			<atmosphereDensity>187</atmosphereDensity>
+			<biomeIds>149,130,166,37,6</biomeIds>
+			<planet name="Sol-31: 0" DIMID="32">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.95183957,1.0</skyColor>
+				<gravitationalMultiplier>32</gravitationalMultiplier>
+				<orbitalDistance>163</orbitalDistance>
+				<orbitalPhi>-3</orbitalPhi>
+				<rotationalPeriod>732421</rotationalPeriod>
+				<atmosphereDensity>15</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-31: 1" DIMID="33">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.79213005,1.0</skyColor>
+				<gravitationalMultiplier>43</gravitationalMultiplier>
+				<orbitalDistance>190</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>301860</rotationalPeriod>
+				<atmosphereDensity>36</atmosphereDensity>
+				<biomeIds>132,94,160,20,155</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Epsilon ire" temp="170" x="-200" y="80" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Sol-48" DIMID="48">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.52953917,0.8131228,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>77</orbitalDistance>
+			<orbitalPhi>-6</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>90</biomeIds>
+			<planet name="Sol-48: 0" DIMID="49">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.19729131,0.8348268,1.0</skyColor>
+				<gravitationalMultiplier>64</gravitationalMultiplier>
+				<orbitalDistance>148</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>91552</rotationalPeriod>
+				<atmosphereDensity>23</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-48: 1" DIMID="50">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.39468908,0.5305244,1.0</skyColor>
+				<gravitationalMultiplier>72</gravitationalMultiplier>
+				<orbitalDistance>108</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>64300</rotationalPeriod>
+				<atmosphereDensity>16</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-51" DIMID="51">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.895194,0.3604462</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>132</orbitalDistance>
+			<orbitalPhi>-5</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>166</atmosphereDensity>
+			<biomeIds>3</biomeIds>
+			<planet name="Sol-51: 0" DIMID="52">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.10876775,0.50878984,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>169</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>123006</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>133,161,134,156,23</biomeIds>
+			</planet>
+			<planet name="Sol-51: 1" DIMID="53">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.2874102,0.5806514,1.0</skyColor>
+				<gravitationalMultiplier>55</gravitationalMultiplier>
+				<orbitalDistance>119</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>144252</rotationalPeriod>
+				<atmosphereDensity>14</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-51: 2" DIMID="54">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.08237332,0.632648,1.0</skyColor>
+				<gravitationalMultiplier>49</gravitationalMultiplier>
+				<orbitalDistance>151</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>203996</rotationalPeriod>
+				<atmosphereDensity>15</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-38" DIMID="38">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.60915977,0.057428002</skyColor>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>49</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>32921</rotationalPeriod>
+			<atmosphereDensity>121</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+		</planet>
+		<planet name="Sol-39" DIMID="39">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.6345614,0.8724313,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>127</orbitalDistance>
+			<orbitalPhi>-4</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>51</atmosphereDensity>
+			<biomeIds>15,2,134,0,94</biomeIds>
+		</planet>
+		<planet name="Sol-40" DIMID="40">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.10603386,0.9623536,1.0</skyColor>
+			<gravitationalMultiplier>99</gravitationalMultiplier>
+			<orbitalDistance>162</orbitalDistance>
+			<orbitalPhi>-3</orbitalPhi>
+			<rotationalPeriod>24734</rotationalPeriod>
+			<atmosphereDensity>29</atmosphereDensity>
+			<biomeIds>164,2,91,14,162</biomeIds>
+		</planet>
+		<planet name="Sol-41" DIMID="41">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.97498214,0.13832891</skyColor>
+			<gravitationalMultiplier>102</gravitationalMultiplier>
+			<orbitalDistance>97</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>22615</rotationalPeriod>
+			<atmosphereDensity>158</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+			<planet name="Sol-41: 0" DIMID="42">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.3350355,0.6941891,1.0</skyColor>
+				<gravitationalMultiplier>39</gravitationalMultiplier>
+				<orbitalDistance>123</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>404592</rotationalPeriod>
+				<atmosphereDensity>21</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-41: 1" DIMID="43">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.21467263,0.973148,1.0</skyColor>
+				<gravitationalMultiplier>29</gravitationalMultiplier>
+				<orbitalDistance>135</orbitalDistance>
+				<orbitalPhi>1</orbitalPhi>
+				<rotationalPeriod>984050</rotationalPeriod>
+				<atmosphereDensity>18</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-41: 2" DIMID="44">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.4813884,0.6030071,1.0</skyColor>
+				<gravitationalMultiplier>32</gravitationalMultiplier>
+				<orbitalDistance>106</orbitalDistance>
+				<orbitalPhi>-3</orbitalPhi>
+				<rotationalPeriod>732421</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-45" DIMID="45">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.5003524,0.0</skyColor>
+			<gravitationalMultiplier>124</gravitationalMultiplier>
+			<orbitalDistance>12</orbitalDistance>
+			<orbitalPhi>-3</orbitalPhi>
+			<rotationalPeriod>12587</rotationalPeriod>
+			<atmosphereDensity>116</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+			<planet name="Sol-45: 0" DIMID="46">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.69783854,1.0</skyColor>
+				<gravitationalMultiplier>76</gravitationalMultiplier>
+				<orbitalDistance>174</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>54672</rotationalPeriod>
+				<atmosphereDensity>13</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+			<planet name="Sol-45: 1" DIMID="47">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.29887378,0.6870596,1.0</skyColor>
+				<gravitationalMultiplier>83</gravitationalMultiplier>
+				<orbitalDistance>150</orbitalDistance>
+				<orbitalPhi>2</orbitalPhi>
+				<rotationalPeriod>41973</rotationalPeriod>
+				<atmosphereDensity>37</atmosphereDensity>
+				<biomeIds>163,1,151,20,17</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Proxima Centaurs" temp="200" x="-150" y="250" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Sol-55" DIMID="55">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.86543214,0.0</skyColor>
+			<gravitationalMultiplier>98</gravitationalMultiplier>
+			<orbitalDistance>30</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>25499</rotationalPeriod>
+			<atmosphereDensity>200</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+		</planet>
+		<planet name="Sol-56" DIMID="56">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.55729043,0.5243232,1.0</skyColor>
+			<gravitationalMultiplier>129</gravitationalMultiplier>
+			<orbitalDistance>139</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>11180</rotationalPeriod>
+			<atmosphereDensity>58</atmosphereDensity>
+			<biomeIds>12</biomeIds>
+		</planet>
+		<planet name="Sol-57" DIMID="57">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.13285226,0.8075961,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>168</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>35</atmosphereDensity>
+			<biomeIds>167,37,22,20,149</biomeIds>
+			<planet name="Sol-57: 0" DIMID="58">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.19123405,0.81072223,1.0</skyColor>
+				<gravitationalMultiplier>69</gravitationalMultiplier>
+				<orbitalDistance>137</orbitalDistance>
+				<orbitalPhi>3</orbitalPhi>
+				<rotationalPeriod>73057</rotationalPeriod>
+				<atmosphereDensity>18</atmosphereDensity>
+				<biomeIds>90</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Magnis Vulpes" temp="70" x="-150" y="-250" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Sol-59" DIMID="59">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9404086,0.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>77</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>198</atmosphereDensity>
+			<biomeIds>92</biomeIds>
+		</planet>
+		<planet name="Sol-60" DIMID="60">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.7514817,0.97171634</skyColor>
+			<gravitationalMultiplier>94</gravitationalMultiplier>
+			<orbitalDistance>81</orbitalDistance>
+			<orbitalPhi>1</orbitalPhi>
+			<rotationalPeriod>28895</rotationalPeriod>
+			<atmosphereDensity>60</atmosphereDensity>
+			<biomeIds>30,156,5,97,24</biomeIds>
+		</planet>
+	</star>
+</galaxy>
