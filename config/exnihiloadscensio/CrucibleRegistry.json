@@ -50,9 +50,5 @@
   "tconstruct:slime_leaves:1": {
     "fluid": "purpleslime",
     "amount": 250
-  },
-  "minecraft:cactus:0": {
-    "fluid": "water",
-    "amount": 250
   }
 }
