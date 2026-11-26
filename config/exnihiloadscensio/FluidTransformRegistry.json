@@ -42,7 +42,7 @@
     "outputFluid": "blood",
     "transformingBlocks": [
       {
-        "name": "tp:FleshBlock",
+        "name": "tp:flesh_block",
         "meta": 0
       }
     ],
