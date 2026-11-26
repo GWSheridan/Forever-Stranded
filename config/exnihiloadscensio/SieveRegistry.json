@@ -680,14 +680,6 @@
     },
     {
       "drop": {
-        "name": "mysticalagriculture:prosperity_shard",
-        "meta": 0
-      },
-      "chance": 0.08,
-      "meshLevel": 3
-    },
-    {
-      "drop": {
         "name": "bigreactors:dustmetals",
         "meta": 0
       },
@@ -712,7 +704,7 @@
     },
     {
       "drop": {
-        "name": "tp:QuartzDust",
+        "name": "tp:quartz_dust",
         "meta": 0
       },
       "chance": 0.005,
@@ -736,14 +728,6 @@
     },
     {
       "drop": {
-        "name": "mysticalagriculture:prosperity_shard",
-        "meta": 0
-      },
-      "chance": 0.16,
-      "meshLevel": 4
-    },
-    {
-      "drop": {
         "name": "bigreactors:dustmetals",
         "meta": 0
       },
@@ -752,7 +736,7 @@
     },
     {
       "drop": {
-        "name": "tp:QuartzDust",
+        "name": "tp:quartz_dust",
         "meta": 0
       },
       "chance": 0.01,
@@ -1350,7 +1334,7 @@
     },
     {
       "drop": {
-        "name": "harvestcraft:whitemushroomseedItem",
+        "name": "harvestcraft:whitemushroomseeditem",
         "meta": 0
       },
       "chance": 0.10,
@@ -1390,7 +1374,7 @@
     },
     {
       "drop": {
-        "name": "harvestcraft:saltItem",
+        "name": "harvestcraft:saltitem",
         "meta": 0
       },
       "chance": 0.20,
@@ -1434,7 +1418,7 @@
     },
     {
       "drop": {
-        "name": "advancedrocketry:productdus",
+        "name": "advancedrocketry:productdust",
         "meta": 0
       },
       "chance": 0.02,
@@ -1442,7 +1426,7 @@
     },
     {
       "drop": {
-        "name": "advancedrocketry:productdus",
+        "name": "advancedrocketry:productdust",
         "meta": 0
       },
       "chance": 0.04,
@@ -1450,7 +1434,7 @@
     },
     {
       "drop": {
-        "name": "advancedrocketry:productdus",
+        "name": "advancedrocketry:productdust",
         "meta": 0
       },
       "chance": 0.06,
